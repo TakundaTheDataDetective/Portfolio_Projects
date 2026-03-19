@@ -1,0 +1,501 @@
+customer_name,city,product,quantity,price_usd,order_date
+Anna Brown,Gweru,Rice,3.0,25.06,2024-10-17
+Michael Smith,Bulawayo,Maize Meal,1.0,6.58,21/04/2023
+Tendai Chikore,gweru,Maize Meal,3.0,34.05,04-08-2024
+Anna Brown,Masvingo,Flour,5.0,27.58,2023-10-11
+Tariro Mlambo,Gweru,Rice,,14.54,01/04/2023
+Tendai Chikore,Bulawayo,Cooking Oil,1.0,43.63,01-05-2023
+John Moyo,Gweru,Maize Meal,2.0,17.48,03-03-2023
+ Tendai Chikore ,Bulawayo,Flour,1.0,38.19,04-17-2024
+Tariro Mlambo,Gweru,Cooking Oil,,10.43,18/05/2024
+John Moyo,harare,Rice,4.0,38.04,03/01/2024
+Brian Zhou,Masvingo,Sugar,5.0,4.56,11-13-2024
+Michael Smith,Harare,Rice,4.0,21.08,2024-03-01
+Tariro Mlambo,Bulawayo,Maize Meal,2.0,10.15,2024-09-10
+Sarah Dube,Bulawayo,Sugar,,48.69,11-04-2023
+Grace Banda,masvingo,Rice,4.0,45.11,18/07/2024
+Kelvin Dube,Bulawayo,Rice,4.0,45.57,2024-06-02
+ Kelvin Dube ,Masvingo,Maize Meal,,45.73,26/01/2024
+Anna Brown,Bulawayo,Maize Meal,3.0,40.36,2024-05-07
+Kelvin Dube,Masvingo,Sugar,1.0,26.08,2023-10-10
+Brian Zhou,Bulawayo,Sugar,3.0,15.45,04-18-2024
+ Tariro Mlambo ,Harare,Maize Meal,,16.32,05-18-2024
+John Moyo,Harare,Sugar,4.0,33.45,08/03/2023
+Sarah Dube,Harare,Sugar,,7.2,29/06/2024
+Michael Smith,Bulawayo,Rice,5.0,3.2,05-01-2024
+Tariro Mlambo,Bulawayo,Rice,1.0,17.11,18/07/2023
+Kelvin Dube,Harare,Cooking Oil,2.0,44.79,2023-03-05
+Alice Ndlovu,Masvingo,Flour,3.0,33.47,05-03-2023
+ Anna Brown ,Mutare,Sugar,4.0,36.2,11-12-2024
+Sarah Dube,Masvingo,Rice,2.0,12.61,2023-02-09
+Tendai Chikore,Mutare,Flour,5.0,19.73,19/06/2024
+ Sarah Dube ,Gweru,Flour,4.0,4.75,10-07-2024
+Sarah Dube,Mutare,Rice,2.0,19.67,2024-09-19
+ Michael Smith ,Harare,Sugar,,14.71,2023-05-09
+Tendai Chikore,Mutare,Maize Meal,,15.29,13/11/2023
+Tariro Mlambo,Harare,Sugar,,37.51,2023-05-20
+Michael Smith,Harare,Sugar,1.0,9.54,06-10-2023
+Tariro Mlambo,Gweru,Sugar,,13.6,04-21-2024
+Anna Brown,Harare,Sugar,2.0,35.77,05-03-2023
+Tariro Mlambo,Harare,Sugar,,11.05,01-04-2023
+Grace Banda,Mutare,Sugar,1.0,38.41,07/09/2024
+John Moyo,Bulawayo,Sugar,3.0,29.93,15/11/2023
+Tendai Chikore,Mutare,Cooking Oil,4.0,25.43,14/04/2023
+ Michael Smith ,Mutare,Cooking Oil,4.0,30.18,2023-02-05
+Alice Ndlovu,Mutare,Sugar,2.0,2.29,2023-10-20
+John Moyo,Bulawayo,Rice,,7.78,14/11/2023
+ Tariro Mlambo ,Masvingo,Flour,3.0,25.95,25/12/2023
+Anna Brown,gweru,Maize Meal,2.0,46.11,07-12-2023
+Alice Ndlovu,Gweru,Sugar,3.0,16.57,08/09/2023
+Kelvin Dube,Masvingo,Sugar,4.0,43.83,08/10/2023
+ Michael Smith ,Masvingo,Sugar,3.0,19.39,2023-12-04
+Grace Banda,harare,Cooking Oil,,23.61,2024-02-23
+Michael Smith,Bulawayo,Maize Meal,3.0,2.36,01-11-2023
+Tariro Mlambo,Mutare,Rice,3.0,12.64,2023-02-01
+Grace Banda,Harare,Cooking Oil,1.0,49.1,03-01-2023
+Brian Zhou,Harare,Flour,,3.5,11-14-2023
+John Moyo,Mutare,Flour,4.0,24.41,2023-11-16
+Alice Ndlovu,Bulawayo,Sugar,2.0,8.43,2024-06-24
+Tendai Chikore,Gweru,Flour,4.0,42.4,08-23-2024
+ Grace Banda ,Harare,Cooking Oil,1.0,21.2,01-08-2023
+Sarah Dube,Bulawayo,Sugar,,29.75,07-30-2024
+Grace Banda,gweru,Rice,5.0,23.33,24/09/2023
+John Moyo,Mutare,Sugar,4.0,24.61,06-01-2023
+ Michael Smith ,Gweru,Rice,3.0,43.77,05/01/2024
+Anna Brown,Bulawayo,Flour,4.0,8.61,08-30-2024
+Alice Ndlovu,Gweru,Maize Meal,4.0,40.66,05-23-2023
+Kelvin Dube,gweru,Maize Meal,4.0,17.23,04/02/2023
+Brian Zhou,bulawayo,Rice,4.0,48.06,2024-05-27
+John Moyo,harare,Sugar,4.0,24.12,25/02/2024
+Michael Smith,Bulawayo,Flour,5.0,23.76,11/11/2024
+Kelvin Dube,masvingo,Flour,,22.59,29/01/2023
+ Michael Smith ,Harare,Flour,,11.08,05-23-2023
+Anna Brown,Masvingo,Flour,1.0,28.22,05-11-2023
+Kelvin Dube,bulawayo,Cooking Oil,3.0,31.74,08/11/2023
+ Tariro Mlambo ,Mutare,Rice,4.0,42.05,2023-06-09
+Tariro Mlambo,Harare,Cooking Oil,4.0,12.25,05-25-2024
+Anna Brown,Gweru,Flour,1.0,31.06,10-14-2023
+Michael Smith,Harare,Maize Meal,1.0,16.13,2024-01-13
+Brian Zhou,Gweru,Maize Meal,2.0,6.56,2023-03-13
+ Anna Brown ,harare,Rice,3.0,34.16,10-22-2024
+Alice Ndlovu,Mutare,Flour,5.0,24.28,28/04/2024
+Grace Banda,Harare,Sugar,5.0,33.92,30/12/2023
+Grace Banda,Masvingo,Rice,4.0,43.23,2024-08-12
+Alice Ndlovu,Mutare,Maize Meal,,10.23,01-24-2023
+ Kelvin Dube ,Gweru,Rice,3.0,37.36,20/06/2023
+Anna Brown,Masvingo,Flour,4.0,28.57,2023-05-18
+ Sarah Dube ,Harare,Flour,,44.82,11-08-2024
+ Sarah Dube ,Gweru,Cooking Oil,1.0,10.06,09/12/2023
+Brian Zhou,Mutare,Maize Meal,2.0,29.85,02/06/2023
+Anna Brown,Mutare,Maize Meal,3.0,46.17,12/04/2024
+Tariro Mlambo,Gweru,Flour,5.0,12.87,2024-08-12
+Anna Brown,Harare,Sugar,4.0,3.81,19/04/2023
+Sarah Dube,Masvingo,Rice,3.0,29.05,04/04/2024
+Grace Banda,Mutare,Flour,3.0,10.47,26/10/2024
+Michael Smith,Mutare,Cooking Oil,4.0,47.32,08-01-2024
+Alice Ndlovu,masvingo,Rice,1.0,44.81,2024-01-29
+Tendai Chikore,Masvingo,Cooking Oil,2.0,11.5,18/04/2023
+Tariro Mlambo,Gweru,Flour,3.0,11.17,2023-03-09
+ Kelvin Dube ,Mutare,Rice,,33.58,03-10-2023
+Kelvin Dube,Harare,Flour,4.0,3.13,02-04-2023
+Kelvin Dube,Bulawayo,Maize Meal,5.0,45.54,2023-05-17
+John Moyo,masvingo,Rice,1.0,25.66,11-24-2024
+Kelvin Dube,Gweru,Cooking Oil,1.0,32.84,07-24-2024
+Anna Brown,Masvingo,Maize Meal,1.0,39.76,2024-11-20
+John Moyo,Harare,Maize Meal,,28.73,2024-07-24
+Anna Brown,Bulawayo,Rice,2.0,27.44,06/09/2023
+Kelvin Dube,Harare,Cooking Oil,1.0,15.48,2023-12-19
+Kelvin Dube,Masvingo,Rice,,16.21,2023-12-12
+Anna Brown,Bulawayo,Sugar,3.0,30.95,10-09-2024
+ Sarah Dube ,Gweru,Maize Meal,2.0,3.67,2023-06-08
+Michael Smith,Masvingo,Flour,1.0,4.25,02-23-2023
+Alice Ndlovu,Harare,Maize Meal,1.0,15.67,2024-01-27
+Sarah Dube,Bulawayo,Maize Meal,,9.62,19/10/2024
+ Brian Zhou ,Masvingo,Cooking Oil,1.0,18.02,2023-10-06
+Brian Zhou,Gweru,Maize Meal,2.0,10.49,2024-08-19
+John Moyo,Masvingo,Maize Meal,,35.27,25/07/2023
+Grace Banda,Gweru,Sugar,5.0,2.72,2024-08-18
+John Moyo,Masvingo,Sugar,2.0,13.56,03-19-2024
+ John Moyo ,Mutare,Flour,5.0,14.42,2024-08-11
+Grace Banda,Masvingo,Sugar,1.0,21.52,01-28-2024
+Grace Banda,Mutare,Rice,1.0,39.06,2023-06-16
+Kelvin Dube,Mutare,Rice,1.0,20.41,2024-09-30
+Anna Brown,Masvingo,Cooking Oil,4.0,38.92,07-16-2023
+John Moyo,Harare,Flour,5.0,28.16,2024-11-01
+ Tendai Chikore ,harare,Flour,3.0,24.56,04-27-2023
+Anna Brown,Gweru,Rice,5.0,28.81,07-31-2024
+Anna Brown,bulawayo,Cooking Oil,1.0,38.77,2024-10-11
+Brian Zhou,Mutare,Sugar,4.0,15.73,07-06-2024
+Tendai Chikore,Bulawayo,Maize Meal,1.0,35.17,2023-12-05
+ Anna Brown ,Gweru,Flour,5.0,20.06,30/04/2023
+Grace Banda,Mutare,Rice,3.0,44.49,08-12-2024
+Alice Ndlovu,Gweru,Sugar,2.0,42.27,07/06/2023
+Grace Banda,Harare,Cooking Oil,5.0,41.7,11/04/2024
+Tendai Chikore,Masvingo,Rice,2.0,11.53,2023-07-07
+Brian Zhou,Mutare,Rice,1.0,10.02,09-19-2023
+ Anna Brown ,Harare,Cooking Oil,5.0,34.18,06-12-2023
+Kelvin Dube,Gweru,Maize Meal,5.0,45.01,05-10-2023
+ Tariro Mlambo ,Masvingo,Flour,5.0,11.33,19/10/2024
+John Moyo,Gweru,Flour,1.0,40.03,23/06/2023
+ Sarah Dube ,Gweru,Rice,2.0,24.04,29/08/2023
+ Anna Brown ,masvingo,Flour,,9.67,2024-05-10
+Michael Smith,Masvingo,Flour,,17.21,01-15-2024
+Sarah Dube,Mutare,Flour,4.0,13.33,07/01/2023
+Michael Smith,masvingo,Cooking Oil,4.0,5.02,2024-02-01
+Anna Brown,Bulawayo,Maize Meal,5.0,36.13,03-29-2024
+Alice Ndlovu,Harare,Flour,5.0,15.07,11/11/2023
+ Sarah Dube ,mutare,Sugar,1.0,11.04,01-04-2024
+Sarah Dube,Harare,Cooking Oil,,33.68,09/07/2023
+Sarah Dube,Mutare,Cooking Oil,2.0,26.34,2023-11-05
+Tendai Chikore,Masvingo,Cooking Oil,2.0,28.83,20/07/2024
+Grace Banda,Harare,Rice,,21.24,16/12/2023
+Alice Ndlovu,Gweru,Maize Meal,1.0,9.79,22/02/2023
+Michael Smith,Gweru,Flour,4.0,16.96,07-13-2023
+Grace Banda,harare,Flour,4.0,32.2,12/05/2024
+John Moyo,Bulawayo,Maize Meal,1.0,10.73,25/02/2023
+Michael Smith,Masvingo,Sugar,2.0,46.87,01-10-2023
+Anna Brown,Bulawayo,Flour,3.0,3.57,05-11-2024
+Sarah Dube,Gweru,Sugar,2.0,22.03,29/06/2024
+Alice Ndlovu,Mutare,Cooking Oil,,37.98,10/12/2023
+Tendai Chikore,Harare,Maize Meal,2.0,2.54,16/09/2023
+ Grace Banda ,Gweru,Flour,5.0,10.17,2024-10-23
+ Kelvin Dube ,mutare,Sugar,2.0,4.42,2023-11-29
+John Moyo,harare,Maize Meal,5.0,38.71,06-24-2024
+Kelvin Dube,Masvingo,Maize Meal,,27.36,03-27-2024
+Tariro Mlambo,Mutare,Flour,2.0,37.57,2024-01-01
+Michael Smith,Bulawayo,Flour,,14.03,2024-07-26
+Michael Smith,Gweru,Flour,5.0,45.19,2023-09-27
+Anna Brown,Gweru,Cooking Oil,1.0,8.49,07/11/2023
+Brian Zhou,Harare,Maize Meal,4.0,30.59,09-09-2024
+Tariro Mlambo,Masvingo,Rice,,37.46,07/09/2023
+Grace Banda,Masvingo,Maize Meal,3.0,4.88,2024-03-20
+ Alice Ndlovu ,Harare,Sugar,,44.6,2023-06-23
+Alice Ndlovu,Harare,Sugar,5.0,41.09,11/06/2024
+Alice Ndlovu,Mutare,Flour,2.0,12.12,2024-01-19
+Sarah Dube,gweru,Sugar,1.0,31.86,2023-10-25
+Grace Banda,Harare,Sugar,3.0,39.68,27/09/2024
+Tariro Mlambo,Masvingo,Sugar,,2.34,2023-02-08
+Sarah Dube,Bulawayo,Cooking Oil,1.0,27.61,2023-02-28
+Tendai Chikore,Gweru,Maize Meal,5.0,46.07,2024-06-20
+Alice Ndlovu,Bulawayo,Cooking Oil,3.0,46.96,2024-04-07
+ Tariro Mlambo ,Masvingo,Flour,5.0,3.41,03-01-2023
+Anna Brown,gweru,Maize Meal,,14.21,2023-09-14
+Brian Zhou,Mutare,Flour,4.0,4.07,11-20-2024
+ Sarah Dube ,Gweru,Sugar,5.0,30.24,11-16-2024
+Anna Brown,Harare,Rice,4.0,47.87,03/03/2024
+ Alice Ndlovu ,Bulawayo,Sugar,4.0,16.06,2023-03-19
+Kelvin Dube,Gweru,Flour,4.0,36.72,12-29-2023
+Michael Smith,Harare,Maize Meal,5.0,29.12,2023-02-10
+ John Moyo ,Bulawayo,Rice,4.0,13.4,31/07/2023
+Anna Brown,Mutare,Rice,2.0,41.0,19/10/2023
+Tariro Mlambo,Masvingo,Flour,3.0,33.39,21/08/2024
+Tendai Chikore,Masvingo,Sugar,3.0,25.45,05-31-2024
+Anna Brown,Gweru,Sugar,1.0,4.09,02-26-2023
+Anna Brown,Harare,Rice,1.0,27.98,2024-05-14
+ Grace Banda ,Bulawayo,Cooking Oil,5.0,8.09,2023-01-16
+Kelvin Dube,Bulawayo,Rice,1.0,42.2,10-22-2024
+ Kelvin Dube ,bulawayo,Sugar,,16.0,2024-07-04
+ Michael Smith ,Mutare,Cooking Oil,,6.72,2024-02-22
+Tendai Chikore,Harare,Cooking Oil,2.0,39.82,03-07-2023
+Alice Ndlovu,Masvingo,Cooking Oil,3.0,40.1,11-25-2023
+ Brian Zhou ,Gweru,Cooking Oil,5.0,37.09,10/09/2024
+Tariro Mlambo,Gweru,Maize Meal,5.0,2.05,15/01/2024
+ Anna Brown ,mutare,Maize Meal,1.0,3.73,10-09-2024
+ John Moyo ,Mutare,Rice,2.0,20.32,29/08/2024
+ John Moyo ,Harare,Flour,,12.75,2024-05-13
+Sarah Dube,Gweru,Flour,2.0,38.28,07-23-2024
+Brian Zhou,Masvingo,Sugar,,28.88,04-26-2023
+Michael Smith,Bulawayo,Sugar,1.0,34.06,04/08/2024
+Anna Brown,bulawayo,Sugar,1.0,6.36,2024-06-16
+ Kelvin Dube ,Gweru,Rice,2.0,23.17,04-14-2023
+Anna Brown,Bulawayo,Flour,4.0,47.93,2024-06-02
+ Anna Brown ,Bulawayo,Maize Meal,1.0,10.28,06-07-2024
+ Tendai Chikore ,Harare,Cooking Oil,,21.04,02-09-2023
+Grace Banda,Harare,Sugar,1.0,38.78,21/11/2024
+Kelvin Dube,Masvingo,Rice,,33.19,10-26-2024
+Michael Smith,Masvingo,Cooking Oil,1.0,35.48,2024-08-12
+Anna Brown,Gweru,Sugar,2.0,38.38,23/01/2024
+Kelvin Dube,Masvingo,Maize Meal,1.0,32.52,07-05-2024
+Tendai Chikore,Mutare,Sugar,3.0,6.98,17/02/2023
+Sarah Dube,Harare,Rice,,47.38,30/03/2024
+Brian Zhou,Harare,Maize Meal,4.0,45.63,10-28-2023
+Tendai Chikore,Masvingo,Cooking Oil,,31.55,16/02/2024
+Anna Brown,gweru,Cooking Oil,1.0,9.2,2023-07-10
+Alice Ndlovu,Harare,Sugar,1.0,22.71,12-29-2023
+Alice Ndlovu,Gweru,Rice,5.0,19.11,05/02/2024
+Tariro Mlambo,Mutare,Flour,5.0,32.65,2024-03-03
+ Alice Ndlovu ,Bulawayo,Rice,5.0,14.5,12/03/2024
+Brian Zhou,Bulawayo,Rice,3.0,5.99,03-16-2024
+Anna Brown,masvingo,Rice,1.0,24.29,30/09/2023
+Michael Smith,Gweru,Maize Meal,4.0,11.74,2024-09-20
+Michael Smith,harare,Maize Meal,3.0,44.25,06-14-2024
+Tendai Chikore,Mutare,Flour,3.0,40.11,2024-06-28
+Tariro Mlambo,Bulawayo,Maize Meal,,16.44,08/07/2024
+ Alice Ndlovu ,Bulawayo,Sugar,5.0,15.62,2023-08-23
+Brian Zhou,Mutare,Flour,3.0,3.97,2024-11-23
+Kelvin Dube,Masvingo,Flour,,26.26,2023-02-18
+Michael Smith,Harare,Sugar,,22.24,30/07/2023
+Kelvin Dube,masvingo,Flour,5.0,44.6,2024-09-01
+Kelvin Dube,Mutare,Sugar,2.0,23.92,2023-04-18
+ Brian Zhou ,Harare,Cooking Oil,,38.24,23/12/2023
+Kelvin Dube,harare,Rice,4.0,49.79,21/07/2023
+ Brian Zhou ,Bulawayo,Rice,,12.96,07/07/2023
+Anna Brown,Bulawayo,Maize Meal,1.0,4.14,13/07/2024
+ Brian Zhou ,Masvingo,Sugar,2.0,16.4,2024-11-04
+Alice Ndlovu,Gweru,Sugar,4.0,29.24,2023-01-20
+Brian Zhou,Mutare,Sugar,1.0,4.89,08-20-2023
+Alice Ndlovu,Mutare,Sugar,3.0,26.38,2024-08-31
+Michael Smith,Harare,Sugar,1.0,19.25,20/02/2023
+ Tariro Mlambo ,Mutare,Flour,2.0,10.57,11-06-2024
+Michael Smith,Masvingo,Cooking Oil,5.0,45.05,2023-07-02
+ Tariro Mlambo ,Bulawayo,Maize Meal,5.0,49.82,2023-04-05
+Michael Smith,Gweru,Rice,1.0,20.61,2023-05-18
+Michael Smith,Bulawayo,Sugar,2.0,7.07,2023-12-14
+Alice Ndlovu,bulawayo,Rice,2.0,43.26,2023-12-12
+Alice Ndlovu,Gweru,Maize Meal,,37.89,10/08/2023
+ John Moyo ,Harare,Cooking Oil,2.0,43.54,05-29-2023
+Alice Ndlovu,gweru,Rice,1.0,22.79,29/09/2024
+Brian Zhou,Harare,Cooking Oil,1.0,14.46,04-14-2023
+Brian Zhou,Harare,Cooking Oil,4.0,11.21,2023-11-22
+Brian Zhou,Masvingo,Flour,4.0,14.96,26/10/2024
+Brian Zhou,Mutare,Cooking Oil,,47.69,2024-04-26
+Kelvin Dube,Bulawayo,Rice,,38.93,11/11/2024
+Alice Ndlovu,Bulawayo,Cooking Oil,2.0,14.43,11-20-2024
+Sarah Dube,Gweru,Flour,4.0,10.36,2023-11-29
+Anna Brown,Gweru,Rice,5.0,3.56,2024-10-09
+Brian Zhou,Gweru,Cooking Oil,5.0,25.05,06-06-2023
+ Michael Smith ,Gweru,Cooking Oil,5.0,15.84,09-05-2024
+Alice Ndlovu,Bulawayo,Cooking Oil,2.0,35.25,2023-01-25
+Sarah Dube,Mutare,Cooking Oil,,28.85,16/04/2023
+ Tariro Mlambo ,harare,Rice,5.0,16.4,05-25-2024
+Grace Banda,Harare,Maize Meal,2.0,19.92,03-31-2023
+ John Moyo ,Bulawayo,Maize Meal,3.0,10.21,2024-05-16
+Tendai Chikore,Mutare,Rice,4.0,17.72,2024-04-29
+Kelvin Dube,Mutare,Rice,3.0,35.2,06-13-2023
+Kelvin Dube,mutare,Maize Meal,,3.95,2023-11-28
+Grace Banda,Bulawayo,Cooking Oil,1.0,32.79,2023-01-07
+ Alice Ndlovu ,Masvingo,Flour,5.0,31.41,08/09/2024
+John Moyo,Harare,Cooking Oil,3.0,32.88,08-20-2023
+Brian Zhou,Bulawayo,Cooking Oil,1.0,29.01,06-16-2023
+ Michael Smith ,Bulawayo,Rice,2.0,43.77,15/08/2024
+Grace Banda,Bulawayo,Rice,3.0,10.95,26/05/2023
+Brian Zhou,mutare,Cooking Oil,1.0,30.75,12/03/2024
+ Tariro Mlambo ,Mutare,Maize Meal,4.0,15.82,06/12/2023
+Anna Brown,Harare,Flour,,38.43,09-27-2023
+ Tariro Mlambo ,mutare,Flour,3.0,5.11,2023-01-11
+Tendai Chikore,Mutare,Flour,5.0,17.26,05-04-2023
+Brian Zhou,Bulawayo,Cooking Oil,1.0,14.01,2023-04-09
+Tariro Mlambo,Masvingo,Rice,3.0,49.79,2023-03-12
+Tendai Chikore,Masvingo,Flour,3.0,16.98,03/10/2024
+John Moyo,Masvingo,Maize Meal,2.0,21.69,20/12/2023
+Anna Brown,Masvingo,Flour,,47.97,05-10-2023
+Anna Brown,Masvingo,Sugar,5.0,26.31,16/05/2024
+ Alice Ndlovu ,Masvingo,Rice,5.0,42.33,2024-05-29
+Brian Zhou,Bulawayo,Sugar,4.0,16.25,09-28-2023
+ John Moyo ,Gweru,Sugar,5.0,8.14,2024-08-31
+Alice Ndlovu,masvingo,Flour,3.0,10.16,01-03-2024
+ Tendai Chikore ,Masvingo,Maize Meal,1.0,5.79,2023-06-14
+Kelvin Dube,bulawayo,Maize Meal,,20.39,2023-03-20
+ Tendai Chikore ,Gweru,Cooking Oil,,8.34,04-19-2024
+John Moyo,mutare,Maize Meal,3.0,20.03,2023-03-20
+John Moyo,Bulawayo,Maize Meal,5.0,6.77,2023-02-23
+Brian Zhou,Mutare,Rice,5.0,44.2,01-25-2023
+Alice Ndlovu,Gweru,Flour,,36.2,10-03-2023
+Alice Ndlovu,Bulawayo,Maize Meal,3.0,23.89,2023-03-03
+Kelvin Dube,Masvingo,Flour,2.0,26.42,09-19-2023
+John Moyo,Masvingo,Sugar,2.0,38.7,07-06-2024
+Sarah Dube,Masvingo,Maize Meal,2.0,16.6,04/07/2023
+Kelvin Dube,Bulawayo,Rice,,46.08,22/04/2024
+Michael Smith,Bulawayo,Maize Meal,1.0,3.54,2023-11-13
+Tendai Chikore,Mutare,Rice,4.0,28.71,08-19-2024
+Grace Banda,Gweru,Maize Meal,3.0,47.44,2024-02-13
+ Kelvin Dube ,Masvingo,Flour,1.0,49.09,04-08-2024
+John Moyo,Bulawayo,Flour,4.0,46.88,2024-03-30
+ Grace Banda ,Gweru,Cooking Oil,4.0,24.16,2023-10-17
+Brian Zhou,Gweru,Sugar,2.0,27.87,2023-05-16
+Tendai Chikore,Harare,Sugar,5.0,33.27,05/02/2024
+Brian Zhou,Mutare,Flour,,22.2,2024-07-20
+ Brian Zhou ,Gweru,Sugar,5.0,47.47,01-08-2024
+Grace Banda,Bulawayo,Sugar,1.0,22.42,25/08/2023
+ Tariro Mlambo ,Mutare,Rice,,49.79,05-14-2024
+Kelvin Dube,Masvingo,Flour,3.0,48.2,01/06/2024
+ Tariro Mlambo ,Masvingo,Sugar,3.0,36.57,07-17-2023
+Tendai Chikore,Gweru,Cooking Oil,1.0,18.94,2023-05-11
+Tendai Chikore,Masvingo,Rice,5.0,40.8,2024-04-14
+Grace Banda,Mutare,Cooking Oil,2.0,13.73,06/08/2024
+ John Moyo ,Masvingo,Flour,1.0,25.58,2023-05-15
+Sarah Dube,Harare,Rice,4.0,24.85,28/02/2024
+Sarah Dube,bulawayo,Flour,1.0,11.59,2024-09-07
+Sarah Dube,Gweru,Flour,5.0,20.1,13/08/2023
+John Moyo,Mutare,Flour,2.0,38.79,04-13-2023
+Tendai Chikore,Harare,Sugar,3.0,32.49,09-05-2023
+ John Moyo ,Bulawayo,Maize Meal,2.0,7.95,2023-05-04
+Sarah Dube,Harare,Rice,1.0,3.72,2024-03-10
+Grace Banda,Bulawayo,Rice,4.0,8.59,2023-07-09
+Grace Banda,mutare,Flour,,3.67,03-06-2023
+Tendai Chikore,Gweru,Rice,2.0,41.04,02-12-2024
+Sarah Dube,Bulawayo,Cooking Oil,3.0,7.46,03-17-2023
+Grace Banda,Mutare,Cooking Oil,,24.62,03-29-2023
+ Michael Smith ,Harare,Maize Meal,2.0,20.17,2024-11-22
+ Sarah Dube ,Mutare,Cooking Oil,4.0,28.13,09-28-2023
+Tariro Mlambo,Masvingo,Sugar,2.0,13.26,2023-06-18
+Anna Brown,harare,Flour,5.0,31.08,2023-08-12
+Tendai Chikore,Gweru,Sugar,2.0,6.89,2023-03-16
+Grace Banda,Gweru,Cooking Oil,5.0,40.92,2023-08-19
+Anna Brown,Mutare,Flour,1.0,3.42,10/05/2023
+ Grace Banda ,Bulawayo,Cooking Oil,2.0,38.09,01-16-2023
+Alice Ndlovu,Bulawayo,Cooking Oil,5.0,28.32,16/11/2023
+Tendai Chikore,Mutare,Flour,,16.37,2023-11-02
+ Anna Brown ,Masvingo,Rice,,41.79,2023-02-16
+Tariro Mlambo,Gweru,Rice,,19.05,10-15-2024
+Tariro Mlambo,Harare,Rice,,27.94,27/08/2024
+Tendai Chikore,Gweru,Flour,1.0,47.29,2023-02-03
+ Tariro Mlambo ,gweru,Sugar,,25.43,04/10/2024
+Brian Zhou,Bulawayo,Maize Meal,2.0,14.25,2024-09-23
+ John Moyo ,Bulawayo,Rice,3.0,19.66,02-05-2023
+Tendai Chikore,bulawayo,Maize Meal,,30.49,2024-04-14
+Sarah Dube,Bulawayo,Flour,4.0,30.61,06-05-2024
+ Anna Brown ,Masvingo,Sugar,2.0,2.39,11-21-2023
+Anna Brown,masvingo,Flour,3.0,7.01,2024-11-02
+Kelvin Dube,Mutare,Rice,3.0,26.43,2024-02-22
+ Kelvin Dube ,Mutare,Rice,3.0,10.44,22/05/2024
+Tendai Chikore,Mutare,Cooking Oil,2.0,31.95,05/08/2023
+Sarah Dube,Gweru,Maize Meal,3.0,46.2,2023-10-02
+Sarah Dube,Bulawayo,Flour,1.0,33.16,09/05/2024
+Tariro Mlambo,gweru,Maize Meal,2.0,27.31,2023-05-29
+ Brian Zhou ,Gweru,Maize Meal,4.0,11.78,2024-10-10
+ John Moyo ,Bulawayo,Maize Meal,3.0,26.89,25/02/2024
+Grace Banda,Gweru,Flour,3.0,16.93,06-19-2024
+Grace Banda,Mutare,Rice,,38.83,2023-10-31
+Grace Banda,Harare,Maize Meal,4.0,37.99,03-15-2023
+Brian Zhou,Bulawayo,Sugar,2.0,24.47,2024-11-24
+Kelvin Dube,Masvingo,Sugar,,24.69,2023-01-13
+Sarah Dube,Harare,Cooking Oil,1.0,28.4,2023-04-20
+John Moyo,Mutare,Cooking Oil,,2.73,2023-04-19
+Kelvin Dube,Bulawayo,Sugar,3.0,18.84,2024-10-17
+Kelvin Dube,Harare,Cooking Oil,4.0,4.42,04-01-2023
+Grace Banda,Masvingo,Flour,,37.66,2023-07-07
+Anna Brown,Mutare,Flour,,21.94,12/08/2023
+Michael Smith,Bulawayo,Cooking Oil,2.0,34.74,12-19-2023
+ Grace Banda ,Harare,Maize Meal,2.0,8.08,2024-09-18
+Kelvin Dube,Gweru,Sugar,2.0,22.76,18/04/2023
+ Kelvin Dube ,Masvingo,Rice,4.0,39.21,31/01/2023
+Michael Smith,Mutare,Flour,2.0,46.8,23/07/2024
+Tendai Chikore,Masvingo,Sugar,,3.52,17/08/2024
+ Brian Zhou ,Bulawayo,Flour,1.0,5.64,05-21-2023
+Tariro Mlambo,Harare,Flour,1.0,27.93,02-06-2024
+John Moyo,Harare,Sugar,1.0,15.4,16/10/2024
+ Alice Ndlovu ,Harare,Flour,1.0,3.06,11/07/2023
+Michael Smith,Gweru,Maize Meal,1.0,24.54,23/03/2023
+Kelvin Dube,Harare,Sugar,1.0,9.31,23/01/2023
+Tariro Mlambo,Mutare,Rice,,15.16,01-29-2024
+Alice Ndlovu,Masvingo,Maize Meal,,25.52,13/11/2023
+Sarah Dube,Gweru,Cooking Oil,5.0,11.13,2023-05-07
+ Kelvin Dube ,Masvingo,Sugar,,39.76,2023-12-16
+Alice Ndlovu,Harare,Rice,3.0,18.47,17/01/2024
+ Alice Ndlovu ,Mutare,Flour,,41.6,05-05-2023
+Alice Ndlovu,Masvingo,Maize Meal,4.0,48.06,11-05-2023
+Kelvin Dube,Mutare,Rice,4.0,44.83,2023-09-05
+Tendai Chikore,bulawayo,Rice,3.0,14.99,20/05/2023
+Anna Brown,Bulawayo,Rice,1.0,27.94,03-13-2024
+Sarah Dube,Bulawayo,Cooking Oil,1.0,49.02,01-28-2023
+Kelvin Dube,Gweru,Flour,2.0,4.63,2024-10-24
+Brian Zhou,Mutare,Maize Meal,,10.73,02-27-2023
+Alice Ndlovu,Harare,Rice,5.0,34.72,06-12-2024
+Grace Banda,Gweru,Maize Meal,1.0,48.89,2023-04-18
+Tendai Chikore,Bulawayo,Cooking Oil,4.0,20.94,02-14-2023
+Grace Banda,mutare,Maize Meal,2.0,23.1,07/02/2023
+ Brian Zhou ,harare,Cooking Oil,3.0,6.2,09-18-2023
+Anna Brown,Mutare,Maize Meal,1.0,45.22,11-03-2023
+Brian Zhou,Bulawayo,Maize Meal,1.0,32.67,2023-08-06
+ Michael Smith ,Harare,Maize Meal,4.0,2.93,06-16-2023
+Grace Banda,Masvingo,Cooking Oil,2.0,23.86,06/05/2024
+Tariro Mlambo,Gweru,Flour,4.0,40.24,30/10/2023
+Tariro Mlambo,Masvingo,Rice,2.0,39.28,03-15-2023
+ Kelvin Dube ,Bulawayo,Rice,4.0,42.22,09-26-2023
+ Brian Zhou ,Masvingo,Flour,1.0,35.5,10-12-2024
+ Tendai Chikore ,Masvingo,Cooking Oil,4.0,31.4,2024-08-09
+Kelvin Dube,Harare,Rice,3.0,12.05,12/02/2023
+Michael Smith,Gweru,Rice,4.0,7.7,12-15-2023
+Brian Zhou,Harare,Maize Meal,3.0,8.59,2023-08-17
+Brian Zhou,Bulawayo,Sugar,4.0,16.61,2023-03-16
+Tariro Mlambo,Mutare,Sugar,1.0,42.04,09/08/2023
+ Michael Smith ,masvingo,Cooking Oil,5.0,46.85,2024-01-30
+ Tariro Mlambo ,Harare,Flour,5.0,8.95,03-09-2023
+Sarah Dube,Mutare,Cooking Oil,2.0,9.39,2024-04-19
+ Tariro Mlambo ,Gweru,Rice,1.0,6.97,21/10/2024
+Tariro Mlambo,Masvingo,Flour,4.0,28.4,02-18-2023
+Kelvin Dube,Gweru,Rice,3.0,49.59,2023-12-18
+Grace Banda,Masvingo,Sugar,3.0,49.86,26/09/2023
+Tendai Chikore,Masvingo,Sugar,,2.25,05/07/2023
+Anna Brown,Harare,Flour,3.0,5.74,09-21-2023
+Grace Banda,Mutare,Sugar,5.0,3.29,28/05/2023
+Kelvin Dube,mutare,Maize Meal,2.0,36.04,2023-03-06
+Anna Brown,Bulawayo,Flour,2.0,48.27,2023-07-12
+ Anna Brown ,Mutare,Rice,5.0,47.41,08-24-2024
+Tendai Chikore,Gweru,Sugar,4.0,17.06,2023-06-03
+ Tariro Mlambo ,bulawayo,Maize Meal,1.0,8.36,09-15-2024
+ Alice Ndlovu ,Bulawayo,Sugar,3.0,20.21,11-14-2023
+Anna Brown,Harare,Sugar,2.0,13.76,05/01/2023
+Brian Zhou,Masvingo,Sugar,2.0,35.52,03-10-2023
+Sarah Dube,Harare,Rice,2.0,21.62,2024-07-15
+Tendai Chikore,Harare,Cooking Oil,3.0,23.85,2024-03-23
+ Alice Ndlovu ,Harare,Flour,2.0,36.21,05-16-2024
+ John Moyo ,Bulawayo,Flour,5.0,43.59,2023-07-10
+ Grace Banda ,Harare,Rice,2.0,47.2,11-28-2023
+ Tariro Mlambo ,Bulawayo,Maize Meal,3.0,33.85,2024-05-25
+John Moyo,Mutare,Flour,1.0,9.28,26/10/2024
+Michael Smith,Bulawayo,Sugar,,27.05,09-02-2024
+Grace Banda,Gweru,Sugar,4.0,33.22,22/11/2023
+Kelvin Dube,Gweru,Cooking Oil,5.0,34.0,23/03/2023
+Brian Zhou,Masvingo,Cooking Oil,4.0,46.53,07-26-2024
+Tariro Mlambo,Harare,Maize Meal,1.0,35.58,06/04/2023
+Alice Ndlovu,Harare,Flour,3.0,24.02,10-07-2024
+Anna Brown,Bulawayo,Maize Meal,5.0,31.91,06-19-2024
+ Michael Smith ,Mutare,Maize Meal,,3.11,2023-04-25
+Brian Zhou,Masvingo,Cooking Oil,4.0,47.24,2023-08-01
+ Sarah Dube ,Mutare,Rice,1.0,3.36,01-15-2024
+Kelvin Dube,Harare,Flour,1.0,47.4,2024-05-21
+Anna Brown,Harare,Maize Meal,5.0,26.11,11-13-2023
+ Michael Smith ,mutare,Maize Meal,,28.19,2023-01-02
+John Moyo,Harare,Maize Meal,3.0,31.69,08-02-2023
+Alice Ndlovu,Mutare,Maize Meal,4.0,29.61,03-27-2024
+Anna Brown,Bulawayo,Sugar,4.0,8.66,2024-08-14
+Michael Smith,Masvingo,Rice,,5.6,07-06-2024
+ John Moyo ,Gweru,Sugar,5.0,16.55,08-16-2023
+Michael Smith,Gweru,Sugar,5.0,11.13,24/03/2023
+Tendai Chikore,harare,Maize Meal,5.0,18.74,07-08-2024
+Alice Ndlovu,Mutare,Rice,1.0,37.55,02-10-2024
+ Grace Banda ,Harare,Rice,2.0,40.13,2023-07-24
+John Moyo,Mutare,Rice,2.0,17.37,02-28-2024
+Tariro Mlambo,Harare,Rice,3.0,4.13,2023-09-28
+Brian Zhou,Harare,Maize Meal,3.0,25.96,02-27-2023
+Alice Ndlovu,Bulawayo,Maize Meal,3.0,48.12,2023-03-15
+Grace Banda,Mutare,Flour,1.0,6.6,2024-09-01
+Tendai Chikore,Gweru,Flour,3.0,13.11,11/03/2023
+John Moyo,Masvingo,Cooking Oil,,14.41,2023-03-13
+ Sarah Dube ,gweru,Rice,1.0,36.72,2023-07-05
+Alice Ndlovu,Mutare,Flour,4.0,7.42,07-15-2024
+Alice Ndlovu,Harare,Maize Meal,2.0,6.38,02-10-2023
+Michael Smith,Masvingo,Cooking Oil,2.0,24.81,20/02/2023
+ Kelvin Dube ,Harare,Cooking Oil,3.0,17.34,05-04-2024
+Brian Zhou,Masvingo,Cooking Oil,3.0,4.22,2024-06-16
+Tendai Chikore,Harare,Maize Meal,4.0,21.36,2023-04-28
+Brian Zhou,Harare,Rice,3.0,44.06,10-09-2024
+Sarah Dube,Gweru,Flour,4.0,47.45,08-11-2023
+Brian Zhou,Mutare,Rice,,2.35,06-10-2024
+ Tariro Mlambo ,Harare,Flour,3.0,20.59,2023-06-18
+Brian Zhou,Bulawayo,Flour,2.0,31.02,12-14-2023
+Alice Ndlovu,Harare,Sugar,4.0,11.9,03-12-2024
+Sarah Dube,Bulawayo,Sugar,,35.86,07-10-2024
+Tariro Mlambo,Gweru,Cooking Oil,3.0,3.28,02-23-2023
+Tendai Chikore,Masvingo,Cooking Oil,3.0,34.72,06/08/2023
+ Sarah Dube ,Mutare,Maize Meal,2.0,49.59,07-01-2023
+ Grace Banda ,Masvingo,Maize Meal,4.0,17.0,04-15-2024
+Grace Banda,Gweru,Maize Meal,3.0,47.62,2023-06-21
+Kelvin Dube,Mutare,Sugar,2.0,34.67,2024-05-22
+Brian Zhou,Bulawayo,Flour,,45.08,11-02-2023
+Brian Zhou,Bulawayo,Flour,1.0,33.09,07-30-2023
+Alice Ndlovu,bulawayo,Rice,,33.59,30/05/2024
+Grace Banda,Harare,Cooking Oil,1.0,25.16,2024-05-20
+ Tariro Mlambo ,Mutare,Flour,1.0,7.92,2024-06-20

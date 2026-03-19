@@ -1,0 +1,21 @@
+product_id,product_name,product_category,manufacturing_city,size,color,sku
+1001,AgriProduct_1001,Irrigation,Harare,Large,Green,356787
+1002,AgriProduct_1002,Tractor Parts,Bulawayo,Large,Red,809570
+1003,AgriProduct_1003,Tools,Harare,Large,Black,133326
+1004,AgriProduct_1004,Irrigation,Harare,Small,Blue,629903
+1005,AgriProduct_1005,Tools,Harare,Large,Blue,850800
+1006,AgriProduct_1006,Tools,Gweru,Small,Black,717889
+1007,AgriProduct_1007,Seeds,Harare,Small,Silver,543143
+1008,AgriProduct_1008,Seeds,Mutare,Small,Blue,900581
+1009,AgriProduct_1009,Seeds,Harare,Small,Black,201414
+1010,AgriProduct_1010,Seeds,Mutare,Large,Green,946335
+1011,AgriProduct_1011,Irrigation,Gweru,Large,Red,496922
+1012,AgriProduct_1012,Irrigation,Masvingo,Medium,Silver,748564
+1013,AgriProduct_1013,Seeds,Masvingo,Small,Silver,172933
+1014,AgriProduct_1014,Irrigation,Bulawayo,Medium,Red,996865
+1015,AgriProduct_1015,Tractor Parts,Harare,Medium,Green,575435
+1016,AgriProduct_1016,Seeds,Bulawayo,Medium,Green,319684
+1017,AgriProduct_1017,Seeds,Harare,Large,Silver,279451
+1018,AgriProduct_1018,Tools,Bulawayo,Small,Black,497887
+1019,AgriProduct_1019,Seeds,Masvingo,Small,Silver,440035
+1020,AgriProduct_1020,Irrigation,Bulawayo,Small,Green,520651
